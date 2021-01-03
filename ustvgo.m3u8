@@ -97,7 +97,7 @@ https://s3.ustv24h.live/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://s2.ustv24h.live/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgODowMjozNiBBTSZoYXNoX3ZhbHVlPWEwcEZ5M3EzblRKQ25FRTMwdGlnZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="" group-title="all",NICKELODEON
 https://s1.ustv24h.live/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgODowMjozNiBBTSZoYXNoX3ZhbHVlPWEwcEZ5M3EzblRKQ25FRTMwdGlnZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.us" tvg-name="Al Jazeera English" tvg-logo="" group-title="all",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.us" tvg-name="AlJazeera" tvg-logo="" group-title="all",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE AMERICA NEWS NETWORK" tvg-logo="" group-title="all",ONE AMERICA NEWS NETWORK
 https://peer6.ustv24h.live/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgODowMjozNiBBTSZoYXNoX3ZhbHVlPWEwcEZ5M3EzblRKQ25FRTMwdGlnZFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
