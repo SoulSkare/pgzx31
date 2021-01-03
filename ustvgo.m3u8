@@ -20,6 +20,11 @@ https://peer3.ustv24h.live/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
 https://s2.ustv24h.live/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgNDo1ODozOSBBTSZoYXNoX3ZhbHVlPVRQeXlKanRpNkNxWDNVSEIvZzZ6WEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
+#EXTINF:-1,BBC WORLD NEWS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:-1,BBC AMERICA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
@@ -234,6 +239,11 @@ https://s2.ustv24h.live/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
 https://s1.ustv24h.live/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgNDo1ODozOSBBTSZoYXNoX3ZhbHVlPVRQeXlKanRpNkNxWDNVSEIvZzZ6WEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1,Al Jazeera English
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,ONE AMERICA NEWS NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
