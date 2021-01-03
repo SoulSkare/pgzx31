@@ -7,6 +7,7 @@ import tarfile
 import zipfile
 from argparse import ArgumentParser
 from time import sleep
+from shutil import copyfile
 
 import requests
 from bs4 import BeautifulSoup
@@ -182,6 +183,8 @@ if __name__ == '__main__':
 
     print('Updating ustvgo.m3u8 playlist...', file=sys.stderr)
 
+    os.remove("ustvgo.m3u8")
+    copyfile('ustvgo_teamplate.m3u8', 'ustvgo.m3u8')
     playlist_text = open('ustvgo.m3u8', 'r').read()
     playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
 
