@@ -117,6 +117,8 @@ https://s2.ustv24h.live/POP/myStream/playlist.m3u8?wmsAuthSign=
 https://s2.ustv24h.live/Science/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="" group-title="all",SHOWTIME
 https://s2.ustv24h.live/Showtime/myStream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-id="SkyNews.us" tvg-name="Sky News" tvg-logo="" group-title="all",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="" group-title="all",STARZ
 https://peer2.ustv24h.live/StarZ/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SUNDANCE TV" tvg-logo="" group-title="all",SUNDANCE TV
