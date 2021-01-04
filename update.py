@@ -122,8 +122,8 @@ if __name__ == '__main__':
 
     driver.delete_all_cookies()
 
-    # driver.get('https://ustvgo.tv/')
-    driver.get('https://ustv247.tv/')
+    driver.get('https://ustvgo.tv/')
+    # driver.get('https://ustv247.tv/')
     sleep(0.5)
 
     soup = BeautifulSoup(driver.page_source, features='lxml')
