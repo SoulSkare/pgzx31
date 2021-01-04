@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4x9x3s6dpdn1gek"
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC" tvg-logo="" group-title="all",ABC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
 https://peer7.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="AE NETWORKS" tvg-logo="" group-title="all",AE NETWORKS
 https://peer3.ustv24h.live/AE/myStream/playlist.m3u8?wmsAuthSign=
