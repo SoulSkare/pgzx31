@@ -960,3 +960,566 @@ TimedPromise@chrome://marionette/content/sync.js:213:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1609732950625	Marionette	INFO	Stopped listening on port 5068
+1609732987757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofile0FYHu2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609732989941	Marionette	INFO	Listening on port 5230
+1609733068366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileEe6UII"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733070574	Marionette	INFO	Listening on port 5276
+1609733071061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733071064	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:5270","noProxy":[],"sslProxy":"127.0.0.1:5270"}
+JavaScript error: https://ustvgo.tv/espn-live/, line 271: ReferenceError: vitag is not defined
+JavaScript error: https://ustvgo.tv/fox-hd-live-streaming/, line 272: ReferenceError: vitag is not defined
+1609733093573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609733093804	Marionette	INFO	Stopped listening on port 5276
+1609733129983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileKInCwK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733132348	Marionette	INFO	Listening on port 5452
+1609733132656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733132660	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:5446","noProxy":[],"sslProxy":"127.0.0.1:5446"}
+JavaScript error: https://ustvgo.tv/mtv/, line 273: ReferenceError: vitag is not defined
+1609733152310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609733152554	Marionette	INFO	Stopped listening on port 5452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609733205902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilerJR5xB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733208165	Marionette	INFO	Listening on port 5612
+1609733208587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733208591	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:5606","noProxy":[],"sslProxy":"127.0.0.1:5606"}
+JavaScript error: https://ustvgo.tv/tv-land-live-free/, line 272: ReferenceError: vitag is not defined
+1609733228833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ustvgo.tv/tv-land-live-free/, line 272: ReferenceError: vitag is not defined
+1609733314118	Marionette	INFO	Stopped listening on port 5612
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609733507916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilezFyCgF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733510453	Marionette	INFO	Listening on port 6001
+1609733510601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733510605	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:5995","noProxy":[],"sslProxy":"127.0.0.1:5995"}
+JavaScript error: https://ustvgo.tv/mtv/, line 273: ReferenceError: vitag is not defined
+1609733529920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609733534380	Marionette	INFO	Stopped listening on port 6001
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609733644648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileiorEku"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733647016	Marionette	INFO	Listening on port 6208
+1609733647314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733647317	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:6202","noProxy":[],"sslProxy":"127.0.0.1:6202"}
+JavaScript error: https://ustvgo.tv/discovery-channel-live/, line 272: ReferenceError: vitag is not defined
+JavaScript error: https://ustvgo.tv/starz-channel-live/, line 271: ReferenceError: vitag is not defined
+1609733672361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609733785117	Marionette	INFO	Stopped listening on port 6208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609733934036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilegKBE1A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733936404	Marionette	INFO	Listening on port 6475
+1609733936722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609733936725	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:6469","noProxy":[],"sslProxy":"127.0.0.1:6469"}
+1609734230347	Marionette	INFO	Stopped listening on port 6475
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileQCGlx8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734020974	Marionette	INFO	Listening on port 6540
+1609734021237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734021240	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:6534","noProxy":[],"sslProxy":"127.0.0.1:6534"}
+JavaScript error: https://ustvgo.tv/hgtv-live-streaming-free/, line 272: ReferenceError: vitag is not defined
+1609734042711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609734178513	Marionette	INFO	Stopped listening on port 6540
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609734181056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilegjDXu5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734183471	Marionette	INFO	Listening on port 6786
+1609734183737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734183740	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:6780","noProxy":[],"sslProxy":"127.0.0.1:6780"}
+JavaScript error: https://ustvgo.tv/bet/, line 273: ReferenceError: vitag is not defined
+JavaScript error: https://ustvgo.tv/espnu/, line 272: ReferenceError: vitag is not defined
+1609734207975	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609734214458	Marionette	INFO	Stopped listening on port 6786
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609734248881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileLyX121"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734251160	Marionette	INFO	Listening on port 7008
+1609734251561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734251565	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:7002","noProxy":[],"sslProxy":"127.0.0.1:7002"}
+JavaScript error: https://ustvgo.tv/comedy-central-live-free/, line 272: ReferenceError: vitag is not defined
+1609734273112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609734301971	Marionette	INFO	Stopped listening on port 7008
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609734305881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofile72VFlo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734308262	Marionette	INFO	Listening on port 7207
+1609734308555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734308558	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:7201","noProxy":[],"sslProxy":"127.0.0.1:7201"}
+JavaScript error: https://ustvgo.tv/the-cw-live-streaming-free/, line 272: ReferenceError: vitag is not defined
+1609734329223	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609734335114	Marionette	INFO	Stopped listening on port 7207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609734429025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofile5t8wIE"
+1609734467909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofile7qFrfI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734470338	Marionette	INFO	Listening on port 7516
+1609734470595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734470599	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:7510","noProxy":[],"sslProxy":"127.0.0.1:7510"}
+JavaScript error: https://ustvgo.tv/lifetime-channel-live/, line 272: ReferenceError: vitag is not defined
+1609734493197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609734571340	Marionette	INFO	Stopped listening on port 7516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609734679808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilebnGeF7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734682210	Marionette	INFO	Listening on port 7720
+1609734682481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734682485	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:7714","noProxy":[],"sslProxy":"127.0.0.1:7714"}
+JavaScript error: https://www.google.com/, line 207: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609734694713	Marionette	INFO	Stopped listening on port 7720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609734743918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofilexLKOdy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734746403	Marionette	INFO	Listening on port 7812
+1609734746594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734746598	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:7806","noProxy":[],"sslProxy":"127.0.0.1:7806"}
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+SourceActor threw an exception: Error: Failed to fetch https://services.bilsyndication.com/adv1/?d=689. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://services.bilsyndication.com/adv1/?d=689. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://services.bilsyndication.com/adv1/?d=689. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://ustvgo.tv/. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ustvgo.tv/. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ustvgo.tv/. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: (new Error("Protocol error (Error): Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920. from: server0.conn0.child3/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+JavaScript error: resource://devtools/server/actors/page-style.js, line 573: TypeError: node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (Error): Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920. from: server0.conn0.child3/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+JavaScript error: https://ustvgo.tv/c-span/, line 272: ReferenceError: vitag is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609734919074	Marionette	INFO	Stopped listening on port 7812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609734937982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileg6lYjt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734940352	Marionette	INFO	Listening on port 8051
+1609734940666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609734940670	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8045","noProxy":[],"sslProxy":"127.0.0.1:8045"}
+JavaScript error: https://ustvgo.tv/own/, line 273: ReferenceError: vitag is not defined
+1609734962727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609735006368	Marionette	INFO	Stopped listening on port 8051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609735026281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileh9atzy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735028698	Marionette	INFO	Listening on port 8248
+1609735029004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735029008	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8242","noProxy":[],"sslProxy":"127.0.0.1:8242"}
+JavaScript error: https://ustvgo.tv/wwe-network/, line 269: ReferenceError: vitag is not defined
+1609735045919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ustvgo.tv/wwe-network/, line 269: ReferenceError: vitag is not defined
+1609735068890	Marionette	INFO	Stopped listening on port 8248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735055809	Marionette	INFO	Listening on port 8387
+1609735056058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735056063	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8381","noProxy":[],"sslProxy":"127.0.0.1:8381"}
+JavaScript error: https://ustvgo.tv/wwe-network/, line 269: ReferenceError: vitag is not defined
+JavaScript error: https://ustvgo.tv/fox-sports-1/, line 272: ReferenceError: vitag is not defined
+JavaScript error: https://ustvgo.tv/bravo-channel-live-free/, line 271: ReferenceError: vitag is not defined
+1609735081027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ssl.p.jwpcdn.com/player/v/8.18.3/provider.hlsjs.js, line 10: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1609735098453	Marionette	INFO	Stopped listening on port 8387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609735387449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofiledg2xmA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735389878	Marionette	INFO	Listening on port 8707
+1609735390146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735390150	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8701","noProxy":[],"sslProxy":"127.0.0.1:8701"}
+JavaScript error: https://ustvgo.tv/tlc-live-free/, line 272: ReferenceError: vitag is not defined
+1609735411599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609735452639	Marionette	INFO	Stopped listening on port 8707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609735455053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileflrW9C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735457497	Marionette	INFO	Listening on port 8898
+1609735457734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735457738	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8892","noProxy":[],"sslProxy":"127.0.0.1:8892"}
+JavaScript error: https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/, line 270: ReferenceError: vitag is not defined
+1609735479184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css, using system principal instead."
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+console.error: "Error sending event: overflow-change"
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/inspector/utils.js", 132))
+TypeError: can't access dead object: standardTreeWalkerFilter@resource://devtools/server/actors/inspector/utils.js:132:5
+isSkippedNode@resource://devtools/server/actors/inspector/document-walker.js:217:17
+getStartingNode@resource://devtools/server/actors/inspector/document-walker.js:172:27
+DocumentWalker@resource://devtools/server/actors/inspector/document-walker.js:79:34
+getNonAnonymousDocumentWalker@resource://devtools/server/actors/inspector/walker.js:353:12
+rawParentNode@resource://devtools/server/actors/inspector/walker.js:702:27
+parentNode@resource://devtools/server/actors/inspector/walker.js:681:25
+form@resource://devtools/server/actors/inspector/node.js:160:36
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:588:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: (new Error("Protocol error (Error): Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920. from: server0.conn0.child3/pagestyle26 (resource://devtools/shared/DevToolsUtils.js:556:16)", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript error: resource://devtools/server/actors/inspector/css-logic.js, line 125: TypeError: can't access dead object
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://ustvgo.tv/wp-content/cache/min/1/3862f66e8fc675791eccd6e81349bd77.css. Code 2152398920."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:556:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "form@resource://devtools/server/actors/style-rule.js:426:9\nwrite@resource://devtools/shared/protocol/types.js:358:32\ntypes.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33\nwrite@resource://devtools/shared/protocol/types.js:215:16\nwrite@resource://devtools/shared/protocol/types.js:263:39\nwrite@resource://devtools/shared/protocol/Response.js:94:22\nwrite@resource://devtools/shared/protocol/Response.js:43:28\nsendReturn@resource://devtools/shared/protocol/Actor.js:195:38\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "highlight@resource://devtools/server/actors/inspector/css-logic.js:125:17\ngetApplied@resource://devtools/server/actors/page-style.js:579:19\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/inspector/css-logic.js:493:7\n_getAllElementRules@resource://devtools/server/actors/page-style.js:637:49\ngetApplied@resource://devtools/server/actors/page-style.js:582:12\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/inspector/css-logic.js:125:17)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child3/pagestyle26 (resource://devtools/shared/inspector/css-logic.js:493:7)", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:125:5
+getParent@resource://devtools/shared/protocol/Pool.js:40:5
+destroy@resource://devtools/shared/protocol/Pool.js:165:25
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:136:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/page-style.js:134:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:113:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:1012:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:583:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:562:10
+onClosed/<@resource://devtools/server/devtools-server-connection.js:493:34
+onClosed@resource://devtools/server/devtools-server-connection.js:493:19
+close@resource://devtools/shared/transport/child-transport.js:63:18
+close@resource://devtools/server/devtools-server-connection.js:94:23
+onDisconnect<@resource://devtools/server/startup/frame.js:106:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 125, column: 5
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 125))
+1609735552404	Marionette	INFO	Stopped listening on port 8898
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609735797302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileM5bXFk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735799704	Marionette	INFO	Listening on port 9165
+1609735800031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735800036	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:9159","noProxy":[],"sslProxy":"127.0.0.1:9159"}
+JavaScript error: https://ustv247.tv/, line 290: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/watch-abc-live-stream/, line 281: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/watch-abc-live-stream/, line 420: ReferenceError: vitag is not defined
+1609735822415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609735989293	Marionette	INFO	Stopped listening on port 9165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ers\\kiero\\AppData\\Local\\Temp\\rust_mozprofileGEM24Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735986176	Marionette	INFO	Listening on port 9485
+1609735986468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609735986472	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:9479","noProxy":[],"sslProxy":"127.0.0.1:9479"}
+JavaScript error: https://ustv247.tv/, line 290: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/cinemax/, line 280: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/cinemax/, line 419: ReferenceError: vitag is not defined
+1609736007861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ustv247.tv/food-network/, line 281: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/food-network/, line 420: ReferenceError: vitag is not defined
+1609736016548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ustv247.tv/nickelodeon/, line 281: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/nickelodeon/, line 420: ReferenceError: vitag is not defined
+1609736025619	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://ustv247.tv/fx-movie-channel/, line 280: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/fx-movie-channel/, line 419: ReferenceError: vitag is not defined
+1609736031424	Marionette	INFO	Stopped listening on port 9485
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609784607453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofile3SO6J1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609784609633	Marionette	INFO	Listening on port 9626
+1609784610185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609784610190	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:9619","noProxy":[],"sslProxy":"127.0.0.1:9619"}
+JavaScript error: https://ustv247.tv/, line 290: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/usa-network-live-stream/, line 281: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/usa-network-live-stream/, line 420: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/watch-weather-channel-live-stream/, line 280: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/watch-weather-channel-live-stream/, line 419: ReferenceError: vitag is not defined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://ustv247.tv/bbc-america/, line 279: ReferenceError: vitag is not defined
+JavaScript error: https://ustv247.tv/bbc-america/, line 418: ReferenceError: vitag is not defined
+1609784649542	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609784649771	Marionette	INFO	Stopped listening on port 9626
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable

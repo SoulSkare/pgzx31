@@ -20,6 +20,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from seleniumwire import webdriver
 
+
 IFRAME_CSS_SELECTOR = '.iframe-container>iframe'
 
 def check_gecko_driver():
@@ -96,6 +97,11 @@ if __name__ == '__main__':
 
     check_gecko_driver()
 
+    try:
+      os.remove("ustvgo.m3u8")
+    except:
+      print("ustvgo.m3u8 already deleted. Continue")
+
     print('Updating authentication key, please wait...')
 
     ff_options = FirefoxOptions()
@@ -108,9 +114,16 @@ if __name__ == '__main__':
     firefox_profile.set_preference('dom.disable_beforeunload', True)
     firefox_profile.set_preference('browser.tabs.warnOnClose', False)
     firefox_profile.set_preference('media.volume_scale', '0.0')
+    firefox_profile.set_preference("browser.cache.disk.enable", False)
+    firefox_profile.set_preference("browser.cache.memory.enable", False)
+    firefox_profile.set_preference("network.http.use-cache", False)
 
     driver = webdriver.Firefox(options=ff_options, firefox_profile=firefox_profile)
-    driver.get('https://ustvgo.tv/')
+
+    driver.delete_all_cookies()
+
+    # driver.get('https://ustvgo.tv/')
+    driver.get('https://ustv247.tv/')
     sleep(0.5)
 
     soup = BeautifulSoup(driver.page_source, features='lxml')
@@ -183,13 +196,15 @@ if __name__ == '__main__':
 
     print('Updating ustvgo.m3u8 playlist...', file=sys.stderr)
 
-    os.remove("ustvgo.m3u8")
+    
     copyfile('ustvgo_teamplate.m3u8', 'ustvgo.m3u8')
     playlist_text = open('ustvgo.m3u8', 'r').read()
     playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
 
     with open('ustvgo.m3u8', 'w') as file:
         file.write(playlist_text)
+
+    # sleep(10)
 
     driver.close()
     driver.quit()
