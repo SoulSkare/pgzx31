@@ -51,7 +51,7 @@ https://s1.ustv24h.live/CN/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="DWNews.us" tvg-name="DW News" tvg-logo="" group-title="all",DW News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://www.youtube.com/watch?v=gOoTbPssAo4
+#https://www.youtube.com/watch?v=gOoTbPssAo4
 #EXTINF:-1 tvg-id="KCBS.us" tvg-name="CBS" tvg-logo="" group-title="all",CBS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"

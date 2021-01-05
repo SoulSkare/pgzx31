@@ -1659,3 +1659,17 @@ webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1609836688061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileCy7tUy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609836689130	Marionette	INFO	Listening on port 2811
+1609836689600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609836689602	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:2805","noProxy":[],"sslProxy":"127.0.0.1:2805"}
+JavaScript error: https://ustvgo.tv/cartoon-network/, line 271: ReferenceError: vitag is not defined
+1609836709391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609836709602	Marionette	INFO	Stopped listening on port 2811
