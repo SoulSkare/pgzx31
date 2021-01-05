@@ -1,8 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4x9x3s6dpdn1gek"
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC" tvg-logo="" group-title="all",ABC
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC" tvg-logo="" group-title="all",ABC NEWS USA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
 https://peer7.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4x9x3s6dpdn1gek"
+#EXTINF:-1 tvg-id="ABCNewsLive.aus" tvg-name="ABC AUS" tvg-logo="" group-title="all",ABC NEWS AUS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
+https://www.youtube.com/watch?v=W1ilCy6XrmI
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="AE NETWORKS" tvg-logo="" group-title="all",AE NETWORKS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
@@ -10,7 +15,7 @@ https://peer3.ustv24h.live/AE/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.us" tvg-name="Al Jazeera English" tvg-logo="" group-title="all",Al Jazeera English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://www.youtube.com/watch?v=Btv7G0BV45g
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="" group-title="all",AMC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
@@ -122,7 +127,7 @@ https://peer2.ustv24h.live/FS2/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="France24(French).us" tvg-name="FRANCE 24" tvg-logo="" group-title="all",FRANCE 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://youtu.be/oaugY_Yn6Yw
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="" group-title="all",FREEFORM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
@@ -238,7 +243,7 @@ https://s2.ustv24h.live/Showtime/myStream/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="SkyNews.us" tvg-name="Sky News" tvg-logo="" group-title="all",Sky News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="" group-title="all",STARZ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
