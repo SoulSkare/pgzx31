@@ -965,7 +965,8 @@ webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1609732989941	Marionette	INFO	Listening on port 5230
-1609733068366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileEe6UII"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileEe6UII"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -1582,3 +1583,17 @@ TimedPromise@chrome://marionette/content/sync.js:220:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1609819028570	Marionette	INFO	Stopped listening on port 7603
+1609820795648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileA2dT71"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609820797715	Marionette	INFO	Listening on port 8835
+1609820797836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609820797840	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:8829","noProxy":[],"sslProxy":"127.0.0.1:8829"}
+JavaScript error: https://ustvgo.tv/cartoon-network/, line 271: ReferenceError: vitag is not defined
+1609820830722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609820830944	Marionette	INFO	Stopped listening on port 8835

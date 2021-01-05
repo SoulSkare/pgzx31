@@ -102,6 +102,11 @@ if __name__ == '__main__':
     except:
       print("ustvgo.m3u8 already deleted. Continue")
 
+    try:
+      os.remove("ustvgo.m3u")
+    except:
+      print("ustvgo.m3u already deleted. Continue")
+
     print('Updating authentication key, please wait...')
 
     ff_options = FirefoxOptions()
@@ -202,6 +207,13 @@ if __name__ == '__main__':
     playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
 
     with open('ustvgo.m3u8', 'w') as file:
+        file.write(playlist_text)
+
+    copyfile('ustvgo_teamplate.m3u8', 'ustvgo.m3u')
+    playlist_text = open('ustvgo.m3u', 'r').read()
+    playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
+
+    with open('ustvgo.m3u', 'w') as file:
         file.write(playlist_text)
 
     # sleep(10)
