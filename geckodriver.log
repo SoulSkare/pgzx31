@@ -1829,3 +1829,17 @@ TimedPromise@chrome://marionette/content/sync.js:220:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1610021947871	Marionette	INFO	Stopped listening on port 13992
+1610022072432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileFWKG7z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610022074866	Marionette	INFO	Listening on port 14787
+1610022075122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610022075127	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:14781","noProxy":[],"sslProxy":"127.0.0.1:14781"}
+JavaScript error: https://ustvgo.tv/sec-network/, line 272: ReferenceError: vitag is not defined
+1610022107281	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610022107528	Marionette	INFO	Stopped listening on port 14787
