@@ -201,17 +201,22 @@ if __name__ == '__main__':
 
     print('Updating ustvgo.m3u8 playlist...', file=sys.stderr)
 
-    
+
+    file='authsign.txt' 
+    with open(file, 'w') as filetowrite:
+        filetowrite.write(captured_key)
+        
+
     copyfile('ustvgo_teamplate.m3u8', 'ustvgo.m3u8')
     playlist_text = open('ustvgo.m3u8', 'r').read()
-    playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
+    # playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
 
     with open('ustvgo.m3u8', 'w') as file:
         file.write(playlist_text)
 
     copyfile('ustvgo_teamplate.m3u8', 'ustvgo.m3u')
     playlist_text = open('ustvgo.m3u', 'r').read()
-    playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
+    # playlist_text = re.sub('(?<=wmsAuthSign=).*(?=\n)', captured_key, playlist_text)
 
     with open('ustvgo.m3u', 'w') as file:
         file.write(playlist_text)
