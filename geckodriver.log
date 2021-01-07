@@ -967,7 +967,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1609732989941	Marionette	INFO	Listening on port 5230
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-"-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileEe6UII"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileEe6UII"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -1814,3 +1815,17 @@ TimedPromise@chrome://marionette/content/sync.js:220:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1610001768637	Marionette	INFO	Stopped listening on port 3797
+1610021913983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kiero\\AppData\\Local\\Temp\\rust_mozprofileKoUlRg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610021916510	Marionette	INFO	Listening on port 13992
+1610021916657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610021916661	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:13986","noProxy":[],"sslProxy":"127.0.0.1:13986"}
+JavaScript error: https://ustvgo.tv/wwe-network/, line 269: ReferenceError: vitag is not defined
+1610021947624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610021947871	Marionette	INFO	Stopped listening on port 13992
