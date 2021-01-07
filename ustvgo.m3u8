@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
 https://peer7.ustv24h.live/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjEgMTI6MjM6NTYgUE0maGFzaF92YWx1ZT0xRXdqbzJPZ2QzUm5ySWhtK0lNSkVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC2" tvg-logo="" group-title="all",ABC2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
+http://wptest4.pebbled.com.au/redir.m3u
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="AE NETWORKS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10035_dark_360w_270h.png" group-title="all",AE NETWORKS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
